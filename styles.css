@@ -50,6 +50,10 @@ img {
   max-width: 100%;
 }
 
+.sr-only {
+  display: none;
+}
+
 img.profile-image {
   position: absolute;
   border: 5px solid white;
