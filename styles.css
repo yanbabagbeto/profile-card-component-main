@@ -2,7 +2,6 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  /* outline: 1px solid black; */
 }
 html {
   margin: 0;
@@ -53,14 +52,14 @@ img {
 
 img.profile-image {
   position: absolute;
-  border: 3.5px solid white;
+  border: 5px solid white;
   border-radius: 50%;
   top: 65px;
   left: 100px;
 }
 
 p.name {
-  margin-top: 4.5rem;
+  margin-top: 4rem;
 }
 section,
 p {
